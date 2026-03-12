@@ -24,7 +24,7 @@ My primary focus is **full-stack web development**, while also exploring **AI in
 
 ---
 
-# 💻 Web Development Stack
+# 💻 Development Stack
 
 <p align="center">
 
@@ -88,7 +88,7 @@ My primary focus is **full-stack web development**, while also exploring **AI in
 
 ---
 
-# 🤖 AI / Machine Learning (Secondary Skills)
+# 🤖 AI / Machine Learning 
 
 <p align="center">
 
