@@ -85,6 +85,6 @@ My main focus is **full-stack development using JavaScript frameworks and backen
 
 # 📫 Connect With Me
 
-LinkedIn  
-GitHub  
-Email
+[LinkedIn ](https://www.linkedin.com/in/faizan-yousaf1/) 
+[GitHub](https://github.com/Faizanyousaf140)  
+[Email](faizanyousaf140@gmail.com)
