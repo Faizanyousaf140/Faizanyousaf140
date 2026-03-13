@@ -22,6 +22,9 @@ I am a Computer Science student at FAST-NUCES passionate about building **modern
 
 My primary focus is **full-stack web development**, while also exploring **AI integrations in web applications such as NLP and LLM-powered systems**.
 
+## Check My Portfolio
+https://faizanyousafs-portfolio.vercel.app/
+
 ---
 
 # 💻 Development Stack
