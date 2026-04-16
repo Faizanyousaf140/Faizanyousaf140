@@ -100,7 +100,7 @@ Relevant Courses: AI · NLP · Web Programming · Database Systems · OOP · Dat
 ## 📌 Featured Projects
 
 ### 📱 HealthMate — Final Year Project
-**Stack:** `React Native` `Flask` `MySQL` `FLask`
+**Stack:** `React Native` `Flask` `MySQL` `Expo`
 
 - Built a Android mobile health app for submitting lifestyle data, health metrics, and genetic SNP questionnaire responses
 - Implemented secure auth, **Secure Data Storage**, and wearable device integration via MySQL
@@ -142,6 +142,7 @@ Relevant Courses: AI · NLP · Web Programming · Database Systems · OOP · Dat
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanyousaf140&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizanyousaf140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
