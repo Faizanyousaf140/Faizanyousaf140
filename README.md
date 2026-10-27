@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/112753100?v=4" width="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/112753100?v=4" width="120" alt="Muhammad Faizan Yousaf" />
 </p>
 
 <h1 align="center">Muhammad Faizan Yousaf</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer &nbsp;•&nbsp; CS Student @ FAST-NUCES &nbsp;•&nbsp; AI & RAG Systems</b>
+  <b>Full-Stack Development &nbsp;•&nbsp; MERN &amp; Python &nbsp;•&nbsp; Applied AI, ML &amp; RAG</b>
 </p>
 
 <p align="center">
-  📍 Pakistan &nbsp;
+  Junior Software Engineer @ Deaimer &nbsp;|&nbsp; BS Computer Science, FAST-NUCES ’26 &nbsp;|&nbsp; Pakistan
 </p>
 
 <p align="center">
-  <a href="https://faizanyousafs-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://faizanyousafs-portfolio.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/faizan-yousaf1/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Faizanyousaf140">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Faizanyousaf140?tab=repositories">Projects</a> &nbsp;|&nbsp;
   <a href="mailto:faizanyousaf140@gmail.com">Email</a>
 </p>
 
@@ -23,150 +23,130 @@
 
 ## About Me
 
-CS student at FAST-NUCES with hands-on experience in full-stack web development and AI-integrated systems.
-Built RAG pipelines, NLP summarization tools, and vector search systems during internships and academic projects.
-Currently focused on combining modern web stacks with practical AI to ship applications that are actually useful.
+I’m a **Computer Science graduate from FAST-NUCES (June 2026)** with experience building full-stack applications and AI/ML projects. I work with **React, Next.js, Node.js, Express, MongoDB, and Python**, connecting web interfaces, APIs, databases, and AI features.
 
----
+My project work spans **RAG and semantic search, vision-language model fine-tuning, NLP, computer vision, and predictive ML**. At **Deaimer**, I design coding tasks and evaluate AI-generated solutions, focusing on correctness, clear requirements, reproducible checks, and useful feedback.
 
-## 🎓 Education
+I use AI development tools to support implementation and debugging, then review the code, check edge cases, and validate the result.
 
-**BS Computer Science** — FAST-NUCES *(Aug 2022 – Jun 2026)*
-Relevant Courses: AI · NLP · Web Programming · Database Systems · OOP · Data Structures & Algorithms
+## Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 💼 Experience
+| Area | Technologies and concepts |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript, SQL, Java, C++ |
+| Frontend & mobile | React, Next.js, Tailwind CSS, HTML, CSS, React Native, Expo |
+| Backend | Node.js, Express.js, Django REST Framework, FastAPI, Flask, REST APIs, JWT, RBAC |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| Machine learning & vision | NumPy, Pandas, Scikit-learn, XGBoost, PyTorch, OpenCV, Vision Transformers |
+| LLMs & NLP | Hugging Face Transformers, PEFT, LoRA/QLoRA, RAG, Sentence Transformers, FAISS, Whisper, LLM APIs |
+| Development & testing | Git, Docker, Linux, GitHub Actions, pytest, Postman, Streamlit, Gradio |
+| AI-assisted development | Claude Code, Codex, ChatGPT, Cursor, GitHub Copilot; prompt refinement and generated-code review |
 
-**Intern — Digital Genei** *(Jun 2025 – Jul 2025 | Onsite)*
-- Built a speech-to-text pipeline using **Whisper** for meeting transcription with NLP-based summarization
-- Implemented **semantic search with FAISS** for vector indexing and similarity-based retrieval
+## Featured Projects
 
-**Intern — Skillify Zone** *(Jul 2025 – Aug 2025 | Remote)*
-- Built a **loan approval prediction system** using Pandas and Scikit-learn with full feature engineering pipeline
-- Performed EDA, data cleaning, and model evaluation to improve prediction accuracy
+### Full-Stack & AI Applications
 
----
+#### [AI Knowledge OS — Knowledge & Project Management](https://github.com/Faizanyousaf140/AI-Knowledge-OS)
 
-## 🛠 Tech Stack
+**Next.js · React · Node.js · Express · MongoDB · RAG · JWT**
 
-**Languages**
+- Built project and note management with authenticated REST APIs and a web dashboard.
+- Added semantic retrieval and AI chat that uses relevant project notes as context.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+#### [RentEase PK — Rental Management Platform](https://github.com/Faizanyousaf140/RentEase-PK)
 
-**Frontend**
+**Next.js · TypeScript · Django REST Framework · FastAPI · ReportLab**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Built workflows for properties, rental agreements, payment tracking, and notices.
+- Integrated a separate FastAPI service to generate rental agreement PDFs.
 
-**Backend**
+#### HealthMate — Final Year Project
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**React Native · Expo · Flask · MySQL · XGBoost · Docker**
 
-**Databases**
+- Developed a mobile application for collecting lifestyle and health information and displaying risk predictions.
+- Integrated prediction services, JWT authentication, database storage, and API tests.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Machine Learning, NLP & Document AI
 
-**AI / ML**
+#### [Document-to-Markdown — Vision-Language Fine-Tuning](https://github.com/Faizanyousaf140/VLM-qlora-doc2markdown)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Qwen2-VL-2B · PyTorch · QLoRA · PEFT · Gradio**
 
-**Tools**
+- Fine-tuned a vision-language model to convert document-page images into structured Markdown.
+- Built multimodal preprocessing and a Gradio interface for inspecting generated output.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### [Clinical Notes RAG — Diagnostic Reasoning Prototype](https://github.com/Faizanyousaf140/RAG-for-Diagnostic-Reasoning-in-Clinical-Notes-DiReCT-)
 
----
+**Python · Sentence Transformers · FAISS · LLMs · Streamlit**
 
-## 📌 Featured Projects
+- Built a retrieval and generation pipeline over MIMIC-IV-Ext clinical notes.
+- Displayed retrieved evidence alongside generated answers so the supporting context can be reviewed.
 
-### 📱 HealthMate — Final Year Project
-**Stack:** `React Native` `Flask` `MySQL` `Expo`
+#### [VerbatimAI — Meeting Intelligence](https://github.com/Faizanyousaf140/Verbatim-AI-Project)
 
-- Built a Android mobile health app for submitting lifestyle data, health metrics, and genetic SNP questionnaire responses
-- Implemented secure auth, **Secure Data Storage**, and wearable device integration via MySQL
-  
----
-### 🧠 AI Knowledge OS — AI-Powered Knowledge & Project Management Platform
-**Stack:** `Next.js` `React` `Node.js` `Express.js` `MongoDB` `RAG` `Vector Embeddings` `JWT`
+**Python · Speech-to-Text · NLP · Streamlit · Semantic Search**
 
-- Built a full-stack platform for managing project notes and documentation with **semantic search using RAG and vector embeddings**
-- Implemented JWT-based auth and an AI chat interface that retrieves and summarizes relevant project context in real time
+- Built workflows for transcribing meeting recordings and summarizing their content.
+- Added embedding-based search to help find relevant passages in meeting transcripts.
 
----
+<details>
+<summary><b>More ML & computer vision projects</b></summary>
 
-### 🏥 RAG for Clinical Diagnostic Reasoning
-**Stack:** `Python` `NLP` `Prompt Engineering` `Vector Database` `Streamlit` `LLMs`
+| Project | Focus |
+| --- | --- |
+| [Self-Supervised Image Representation](https://github.com/Faizanyousaf140/mae-vit-self-supervised-image-representation) | ViT-based masked autoencoder, random patch masking, and image reconstruction on TinyImageNet. |
+| [DDPM Image Generation](https://github.com/Faizanyousaf140/Denoising-Diffusion-Probabilistic-Model-DDPM-for-Image-Generation) | PyTorch diffusion model with a U-Net denoiser and mixed-precision training. |
+| [GANs & Image Translation](https://github.com/Faizanyousaf140/Deep-Generative-Models-GAN-Pix2Pix-CycleGan) | Pix2Pix and CycleGAN experiments with image preprocessing and translation demos. |
+| [Urdu Conversational Transformer](https://github.com/Faizanyousaf140/Conversational-Chatbot-in-Urdu) | Encoder-decoder Transformer, attention masks, SentencePiece tokenization, and response generation. |
+| [Loan Approval Predictor](https://github.com/Faizanyousaf140/Loan-Approval-Predictor-App) | Data cleaning, feature engineering, classifier comparison, and a Streamlit prediction interface. |
 
-- Built a **RAG-based clinical Q&A system** on the MIMIC-IV healthcare dataset with an LLM backend and Streamlit interface
-- Designed a context-aware medical assistant using **vector embeddings and semantic similarity search** to generate accurate, grounded responses
+</details>
 
----
+## Experience
 
-### 🎙️ VerbatimAI — AI Meeting Intelligence System
-**Stack:** `Python` `Whisper` `NLP` `Streamlit` `Vector Embeddings` `FAISS`
+**Junior Software Engineer — Deaimer**  
+*July 2026 – Present*
 
-- Built a meeting analysis system using **Whisper speech-to-text** and NLP-based summarization to convert recordings into structured insights
-- Designed a Streamlit interface for **semantic search over meeting transcripts** using embedding-based similarity retrieval
+- Design coding tasks in JavaScript, Python, and SQL and evaluate AI-generated solutions against their requirements.
+- Maintain evaluation rubrics, document failure cases, and refine prompts using Claude Code and Codex.
 
----
+**AI / Software Engineering Intern — Digital Genei**  
+*June 2025 – July 2025 · On-site*
 
-### 🏦 [Loan Approval Predictor](https://github.com/Faizanyousaf140/Loan-Approval-Predictor-App)
-**Stack:** `Python` `Pandas` `Scikit-learn` `Streamlit` `Jupyter`
+- Built a Whisper transcription workflow with NLP summarization and FAISS semantic search.
+- Developed modular backend services and RESTful API endpoints for application and AI features.
 
-- End-to-end ML pipeline from EDA and feature engineering to model deployment via Streamlit
-- Compared multiple classifiers (Random Forest, Gradient Boosting, Logistic Regression); achieved **80–85% accuracy**
+**Machine Learning Intern — Skillify Zone**  
+*July 2025 – August 2025 · Remote*
 
----
+- Built Python/Pandas workflows for preprocessing, feature engineering, model training, and evaluation.
+- Compared Scikit-learn classifiers using cross-validation and GridSearchCV and built a Streamlit interface.
 
-## 📊 GitHub Stats
+## Education
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanyousaf140&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizanyousaf140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
+**BS Computer Science — FAST-NUCES**  
+*August 2022 – June 2026 · CGPA: 3.33/4.0*
 
----
+- **Coursework:** Artificial Intelligence, Deep Learning, NLP, Generative AI, Web Programming, Database Systems, OOP, Data Structures & Algorithms, and Software Testing.
+- Served as a **Teaching Assistant for four courses**.
 
-## 🏅 Certifications
+## Certifications
 
-**Coursera — Machine Learning Specialization** *(Andrew Ng / DeepLearning.AI)*
-Supervised Learning · Unsupervised Learning · Advanced Learning Algorithms
+- [Machine Learning Specialization — DeepLearning.AI / Stanford Online](https://www.coursera.org/account/accomplishments/specialization/Q4A7R6RWXYD3) · July 2025
+- [Natural Language Processing with Classification and Vector Spaces — DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/HUZ8D8TG6S7S) · July 2025
 
----
+## Connect
 
-## 📬 Connect
+Interested in building full-stack products, AI applications, and practical ML systems.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/faizan-yousaf1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Faizanyousaf140">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:faizanyousaf140@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://faizanyousafs-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+**[Portfolio](https://faizanyousafs-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faizan-yousaf1/) · [GitHub](https://github.com/Faizanyousaf140) · [faizanyousaf140@gmail.com](mailto:faizanyousaf140@gmail.com)**
